@@ -9,4 +9,6 @@ esto es un readme bien hecho
 
 ola ola
 
+incluye ejemplos en windows linux y mac 
+
 Made by** Cristian Casallas**
